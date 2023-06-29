@@ -40,7 +40,7 @@ public class DepartamentListController implements Initializable{
 		
 	}
 	
-	public void serDepartmentService(DepartamentService service) {
+	public void setDepartmentService(DepartamentService service) {
 		this.service = service;
 	}
 
